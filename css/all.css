@@ -326,6 +326,7 @@ ol {
 	left: 15px;
 	width: 251px;
 	height: 106px;
+	z-index: 2;
 	-webkit-transition: top .3s ease 0s;
 	-o-transition: top .3s ease 0s;
 	transition: top .3s ease 0s;
